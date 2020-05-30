@@ -4,7 +4,7 @@ Can we predict an employee’s satisfaction with their job based on their compan
 
 ## Getting Started
 
-Download the code from our repository: https://github.com/pttruong2009/Data1030Project.git.
+Download the code from our repository: https://github.com/cavu17/data1030-project.git.
 
 ## Prerequisites
 
