@@ -20,8 +20,8 @@ EXAMPLE_COMMAND = "company"
 
 
 # instantiate Slack clients
-slack_client = SlackClient('xoxb-285243337382-trQ8Ywc88dCdCdjHedSg5IBH')
-slack = Slacker("xoxb-285636270311-HqQMMkAum8wl4FCbSPVUqBs9")
+slack_client = SlackClient('[Removed]')
+slack = Slacker("[Removed]")
 
 matplotlib.use('TkAgg')
 
