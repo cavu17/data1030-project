@@ -1,4 +1,4 @@
-# Employee Satisifaction
+# Employee Satisfaction
 
 Can we predict an employee’s satisfaction with their job based on their company and work environment? Factors we used for our recommender includes culture rating, weather, crime rate in the city, and company growth.
 
